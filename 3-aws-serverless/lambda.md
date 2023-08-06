@@ -10,11 +10,10 @@ Why use AWS Lambda?
     - Virtual functions
     - no servers to manage
     - Quick, short executions
-    - Run on-demand
-    - Scaling is fully automated
+    - **Run on-demand**
+    - **Scaling is fully automated**
 
 ## Benefits of AWS Lambda
-
 
 - Easy Pricing:
 - Pay per request and compute time
