@@ -15,6 +15,7 @@ Why use AWS Lambda?
 
 ## Benefits of AWS Lambda
 
+
 - Easy Pricing:
 - Pay per request and compute time
 - Free tier of 1,000,000 AWS Lambda requests and 400,000 GBs of compute time
